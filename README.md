@@ -11,6 +11,10 @@ You can find here different size of projects like Algorithms/Architecture/Clones
 
 [TodoistClone](https://piotrsudol.github.io/todoist/today)
 
+GameEconomy (Microservice architecture)
+
+- [Catalog](https://github.com/piotrsudol/GameEconomy.Catalog)
+
 ### Entity Framework rework
 [MVC](https://github.com/piotrsudol/MVC)
 
