@@ -15,6 +15,8 @@ GameEconomy (Microservice architecture)
 
 - [Catalog](https://github.com/piotrsudol/GameEconomy.Catalog)
 
+- [Common](https://github.com/piotrsudol/GameEconomy.Common)
+
 ### Entity Framework rework
 [MVC](https://github.com/piotrsudol/MVC)
 
